@@ -1,24 +1,24 @@
 {
-  "store_id": 2329,
-  "name": "tricooficial",
   "domain": "tricooficial.netlify.app",
-  "short_name": "tricooficial",
-  "description": "tricooficial",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/tricooficial",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Tricô Oficial",
+  "short_name": "Tricô Oficial",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/tricooficial"
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logo.png",
+  "store_id": 2329,
+  "description": "A Tricô Oficial proporciona a você diversas opções em roupas femininas para manter-se sempre atualizada na moda!",
+  "large_icon": "/img/uploads/logo.png"
 }
