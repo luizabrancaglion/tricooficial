@@ -7,23 +7,18 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
+          "img": "/img/uploads/adicionar-um-titulo.png",
+          "link": "",
+          "alt": "",
           "start": "",
           "end": ""
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/12.png"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
@@ -31,6 +26,10 @@
       "collection_id": null,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/entregas-para-todo-o-brasil.png"
     },
     {
       "type": "page-title",
