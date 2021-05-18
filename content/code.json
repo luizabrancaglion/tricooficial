@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "#produto-corpo .btn-info { display: none; }\n#rodape_links li:nth-last-child(1) { display: none;\n}\n#ws_icon_chat {\nposition:fixed;\nbottom:70px;\nright:-10px;\nz-index:2000;\ncursor:pointer;\noutline:none!important\n}\n#ws_icon_chat img {\nwidth:80px;\nmargin-right:20px\n} \n@media (max-width: 480px) {\n#ws_icon_chat img {\nwidth:40px !important;\n}\n}\n.fwr img {\nwidth: 10%\n}\n#desconto_principal .text-default {\n  color: #000;\n  font-size: 0\n}\n#desconto_principal .text-default:after {\n  color: #000;\n  font-size: 12px !important;\n content: '(10% de desconto já calculado)'\n}\n.frete-calcular button {background: #000;}\n.btn.btn-xs.btn-default {\nbackground: #000;\n}",
   "html_head": "",
   "html_body": ""
 }
