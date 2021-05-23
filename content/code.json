@@ -1,5 +1,5 @@
 {
-  "css": ".fwr img {\n  width: 10%\n}\n.product__buy button {\ncolor: #ffffff;\nbackground-color: #3afa00;\nborder-color: #3afa00;\nwidth: 100%;\n}\n.product__buy button:hover {\nbackground: #00ff11;\nborder-color: #00ff11;\n}",
+  "css": ".fwr img {\n  width: 10%\n}\n.product__buy button {\ncolor: #ffffff;\nbackground-color: #2fc42f;\nborder-color: #2fc42f;\nwidth: 100%;\n}\n.product__buy button:hover {\nbackground: #00ff11;\nborder-color: #00ff11;\n}",
   "html_head": "<a href=\"https://api.whatsapp.com/send?phone=5535992679492&text=Ol%C3%A1%2C%20estou%20com%20d%C3%BAvidas%20sobre%20algumas%20pe%C3%A7as%20no%20site%2C%20poderia%20me%20ajudar%3F%3F%20\" style=\"position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;\nz-index:1000;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>\n",
   "html_body": "<div class=\"fwr\">\n<a href=\"javascript;:\" target=\"_blank\"><img src=\"https://cdn.ecvol.com/s/www.tricooficial.com.br/uploads/Igor-Favero.png\" title=\"Igor Agência Digital\"></a>\n</div>\n\n<script>\n$('.fwr').insertBefore('.credits a');\n</script>\n"
 }
