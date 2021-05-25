@@ -7,6 +7,10 @@
       "img": "/img/uploads/trico-oficial.png"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/entregas-para-todo-o-brasil.png"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
