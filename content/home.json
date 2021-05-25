@@ -3,22 +3,8 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 4000,
-      "slides": [
-        {
-          "img": "/img/uploads/design-sem-nome.png",
-          "link": "",
-          "alt": "",
-          "start": "",
-          "end": ""
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/design-sem-nome-2-.png"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/trico-oficial.png"
     },
     {
       "type": "collection-shelf",
