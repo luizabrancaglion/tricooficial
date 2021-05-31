@@ -2,3 +2,13 @@
 .minicart__aside .minicart__btn-checkout {
   display: none !important;
 }
+#product-actions .prices__installments::before {
+  content: url('/img/uploads/cartao.png');
+  position: relative;
+  top: 5px
+}
+#product-actions .prices__discount::before {
+  content: url('/img/uploads/deposito.png');
+  position: relative;
+  top: 5px;
+}
