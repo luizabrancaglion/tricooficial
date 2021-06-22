@@ -29,7 +29,6 @@
       "collection_id": "60b180b729a8311706501471:categories:Lançamentos:/lancamentos/",
       "limit": 12,
       "page": 1,
-      "headless": false,
       "sort": "news",
       "link": "https://www.tricooficial.com.br/lancamentos/"
     },
@@ -41,11 +40,6 @@
       "collection_id": "60b180b629a831170650146b:categories:Inverno :/inverno/",
       "sort": "sales",
       "link": "https://www.tricooficial.com.br/inverno/"
-    },
-    {
-      "type": "page-title",
-      "title": "",
-      "description": ""
     }
   ]
 }
