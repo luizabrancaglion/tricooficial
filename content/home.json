@@ -30,7 +30,8 @@
       "limit": 12,
       "page": 1,
       "headless": false,
-      "sort": "news"
+      "sort": "news",
+      "link": "https://www.tricooficial.com.br/lancamentos/"
     },
     {
       "type": "collection-shelf",
