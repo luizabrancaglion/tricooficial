@@ -43,15 +43,17 @@ const networksWithColors = [
                   </a>
                 </li>
               <% } %>
-              <% if (contacts.phone) { %>
+                    <% if (contacts.phone) { %>
                 <li>
                   <span class="footer__list-icon">
-                    <i class="fas fa-phone"></i>
+                    <i class="fas fa-whatsapp"></i>
                   </span>
                   <a
-                    href="tel:+<%= contacts.phone.replace(/\D/g, '') %>"
+                    href="javascript:;"
                     target="_blank"
                     rel="noopener"
+                    class="whatsapp-link"
+                    data-tel="<%= contacts.phone.replace(/\D/g, '') %>"
                   >
                     <%= contacts.phone %>
                   </a>
