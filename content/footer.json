@@ -32,8 +32,8 @@
     "boleto": false,
     "aura": false,
     "banrisul": false,
-    "elo": true,
-    "hipercard": true,
+    "elo": false,
+    "hipercard": false,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
@@ -41,8 +41,8 @@
     "citibank": false,
     "hiper": false,
     "diners": false,
-    "mais": false,
-    "amex": true,
+    "mais": true,
+    "amex": false,
     "itau": false
   },
   "credits": ""
