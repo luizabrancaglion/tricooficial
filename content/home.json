@@ -44,6 +44,15 @@
       "collection_id": "60b180b629a831170650146b:categories:Inverno :/inverno/",
       "sort": "sales",
       "link": "https://www.tricooficial.com.br/inverno/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60b180b529a8311706501467:categories:Verão :/verao/",
+      "sort": "sales",
+      "link": "https://www.tricooficial.com.br/verao/"
     }
   ]
 }
