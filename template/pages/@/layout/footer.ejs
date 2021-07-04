@@ -186,14 +186,17 @@ const networksWithColors = [
         <p><%- footer.description.text || _.settings.description %></p>
 
         <div class="mt-4 mb-3">
+          <h3>Formas de Pagamento</h3>
           <p class="footer__payment-methods">
             <% Object.keys(footer.payment_methods).forEach(method => { %>
               <% if (footer.payment_methods[method]) { %>
                 <i class="pay-icon pay-icon--<%= method %>"></i>
               <% } %>
             <% }) %>
-            <i class="pay-icon pay-icon--sicoob"><img src="https://www.tricooficial.com.br/img/uploads/Sicoob.jpg"></i>
+            <i class="pay-icon pay-icon--bancoob"><img src="https://www.tricooficial.com.br/img/uploads/bancoob.png"></i>
+            <i class="pay-icon pay-icon--pagseguro"><img src="https://www.tricooficial.com.br/img/uploads/pagseguro.png"></i>
           </p>
+          <h3>Selos e Segurança</h3>
           <div class="footer__stamps">
             <%- await include(`@/sections/stamps`, { _, opt: { stamps: footer.stamps } }) %>
           </div>
