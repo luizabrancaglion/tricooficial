@@ -32,17 +32,11 @@
     {
       "src": "/img/uploads/nortonsafeweb.png",
       "link": "https://safeweb.norton.com/report/show?url=www.tricooficial.com.br"
-    },
-    {
-      "src": "/img/uploads/bancoob.png"
-    },
-    {
-      "src": "/img/uploads/pagseguro.png"
     }
   ],
   "payment_methods": {
     "bb": false,
-    "visa": true,
+    "visa": false,
     "boleto": false,
     "aura": false,
     "banrisul": false,
@@ -51,11 +45,11 @@
     "hsbc": false,
     "bradesco": false,
     "santander": false,
-    "mastercard": true,
+    "mastercard": false,
     "citibank": false,
     "hiper": false,
     "diners": false,
-    "mais": true,
+    "mais": false,
     "amex": false,
     "itau": false
   },
