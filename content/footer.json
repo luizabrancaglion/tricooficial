@@ -32,6 +32,12 @@
     {
       "src": "/img/uploads/nortonsafeweb.png",
       "link": "https://safeweb.norton.com/report/show?url=www.tricooficial.com.br"
+    },
+    {
+      "src": "/img/uploads/bancoob.png"
+    },
+    {
+      "src": "/img/uploads/pagseguro.png"
     }
   ],
   "payment_methods": {
