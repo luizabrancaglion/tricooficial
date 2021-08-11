@@ -14,12 +14,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/inverno.png",
-          "link": "https://www.tricooficial.com.br/lancamentos"
-        },
-        {
           "img": "/img/uploads/2.png",
           "link": "https://www.tricooficial.com.br/inverno"
+        },
+        {
+          "img": "/img/uploads/inverno.png",
+          "link": "https://www.tricooficial.com.br/lancamentos"
         },
         {
           "img": "/img/uploads/verao.png",
