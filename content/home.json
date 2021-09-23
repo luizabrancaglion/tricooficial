@@ -3,20 +3,8 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 4000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/trico-oficial.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/tenha.png"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/trico-oficial.png"
     },
     {
       "type": "responsive-banner",
